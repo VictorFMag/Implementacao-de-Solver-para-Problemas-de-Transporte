@@ -8,10 +8,10 @@ Um arquivo .txt com o seguinte formato:<br><br>
 
 Por exemplo:<br><br>
 
-3
-2
-1000, 1500, 1200
-2300, 1400
-80, 215
-100, 108
+3<br>
+2<br>
+1000, 1500, 1200<br>
+2300, 1400<br>
+80, 215<br>
+100, 108<br>
 102, 68
