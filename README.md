@@ -1,4 +1,4 @@
-# Formato e entrada
+# Formato de entrada
 Um arquivo .txt com o seguinte formato:<br><br>
 1ª linha: um inteiro M, representando o número de origens<br>
 2ª linha: um inteiro N, representando o número de destinos<br>
